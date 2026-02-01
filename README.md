@@ -50,15 +50,9 @@ Here are some ideas to get you started:
          alt="HTML" width="45" height="45" />
   </a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="Git" width="45" height="45" />
-  </a>
+ 
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-         alt="Docker" width="45" height="45" />
-  </a>
+
 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
